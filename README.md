@@ -1,0 +1,1 @@
+This project analyzes the Superstore Sales dataset using MySQL. The objective was to apply SQL concepts such as Subqueries, Common Table Expressions (CTEs), Window Functions, and JOINs to answer real-world business questions.
